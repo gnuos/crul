@@ -2,11 +2,6 @@ name: crul
 version: 0.4.2
 
 dependencies:
-  completion:
-    github: porras/completion
-    branch: crystal-0.19
-
-development_dependencies:
   webmock:
     github: manastech/webmock.cr
     branch: master
